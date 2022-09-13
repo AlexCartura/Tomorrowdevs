@@ -13,7 +13,11 @@ if (ricompensa = "si") {
     var nuovogiro = prompt("Quante bottiglie devi aggiungere?")
 };
 
-var newnumInit1ltBottle = prompt ("Quante bottiglie da 1lt devi aggiungere? ");
+if (ricompensa = "no") {
+    alert("Allora abbiamo finito, la tua ricompensa è di " + totalCashBottle)
+}
+
+var newnumInit1ltBottle = prompt ("Quante bottiglie da 1lt o meno devi aggiungere? ");
 
 var newnumemorethan1ltBottle = prompt("E quante da piu di 1lt? ");
 
