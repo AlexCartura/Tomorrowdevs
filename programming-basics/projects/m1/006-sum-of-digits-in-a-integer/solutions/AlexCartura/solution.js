@@ -6,4 +6,5 @@ const thirdNumber = str[2];
 const fourthNumber = str[3];
 
 
+
 alert(`The sum of your number digits is: ${+firstNumber + +secondNumber + +thirdNumber + +fourthNumber}`)
