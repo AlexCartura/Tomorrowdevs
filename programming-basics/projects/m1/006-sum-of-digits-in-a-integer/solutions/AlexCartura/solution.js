@@ -5,6 +5,6 @@ const secondNumber = str[1];
 const thirdNumber = str[2];
 const fourthNumber = str[3];
 
-
+HTMLTableCaptionElement
 
 alert(`The sum of your number digits is: ${+firstNumber + +secondNumber + +thirdNumber + +fourthNumber}`)
