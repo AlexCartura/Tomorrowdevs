@@ -1,4 +1,4 @@
-// Dichiaro la variabile che conterrà la stringa immessa dall'utente, converto i caratteri della stringa in maiuscolo
+ // Dichiaro la variabile che conterrà la stringa immessa dall'utente, converto i caratteri della stringa in maiuscolo
 let userOctave = prompt("Write a note");
 userOctave = userOctave.toUpperCase();
 
